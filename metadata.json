@@ -1,0 +1,6 @@
+{
+  "name": "National Weather Intelligence Platform",
+  "description": "Real-time monitoring and AI-synthesized meteorological telemetry across India for disaster management and crisis grid operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
